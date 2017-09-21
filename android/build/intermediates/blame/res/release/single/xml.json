@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rohandesai/pmdtech/3.0.6/reactnative/node_modules/react-native-fileupload/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/rohandesai/pmdtech/3.0.6/reactnative/node_modules/react-native-fileupload/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.15.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/rohandesai/pmdtech/reactnative/node_modules/react-native-fileupload/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/rohandesai/pmdtech/reactnative/node_modules/react-native-fileupload/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.15.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/bgoyal2222/reactnative/node_modules/react-native-fileupload/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/bgoyal2222/reactnative/node_modules/react-native-fileupload/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.15.3/res/xml/preferences.xml"
+    }
+]
